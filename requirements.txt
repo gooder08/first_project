@@ -1,2 +1,2 @@
-django
-
+django==3.2.10
+pytz==2022.1
